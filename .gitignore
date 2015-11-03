@@ -1,0 +1,8 @@
+CONFIG.py
+
+*.pyc
+*.npy
+
+*.png
+*.txt
+*.csv
